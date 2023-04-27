@@ -26,8 +26,17 @@ namespace WordBank
                 app.UseDeveloperExceptionPage();
             }
 
+
+            //www.site.com.br/client/lista
+            //www.site.com.br/client/deletar/30
+            //www.site.com.br/client/vizualizar/30
+            //www.site.com.br/noticia/visualizar/acidente-de-carro
+            //{Dominio}/{Controller}/{Action=Index}/{Id?}
+
+
             app.UseStaticFiles();
             app.UseMvcWithDefaultRoute();
+
 
             //app.Run(async (context) =>
             //{
