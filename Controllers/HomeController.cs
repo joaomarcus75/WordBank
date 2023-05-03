@@ -10,7 +10,8 @@ namespace WordBank.Controllers
     {
         public ActionResult Index()
         {
-            return new ContentResult() { Content = "Hello Word", ContentType = "text/json " };
+            // return new ContentResult() { Content = "Hello Word", ContentType = "text/json " };
+            return View();
         }
     }
 }
