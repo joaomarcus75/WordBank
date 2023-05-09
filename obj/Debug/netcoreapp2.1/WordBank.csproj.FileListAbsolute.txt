@@ -5,6 +5,7 @@ C:\Users\Administrador\Desktop\Word Bank ASP.NET\WordBank\WordBank\bin\Debug\net
 C:\Users\Administrador\Desktop\Word Bank ASP.NET\WordBank\WordBank\bin\Debug\netcoreapp2.1\WordBank.pdb
 C:\Users\Administrador\Desktop\Word Bank ASP.NET\WordBank\WordBank\bin\Debug\netcoreapp2.1\WordBank.Views.dll
 C:\Users\Administrador\Desktop\Word Bank ASP.NET\WordBank\WordBank\bin\Debug\netcoreapp2.1\WordBank.Views.pdb
+C:\Users\Administrador\Desktop\Word Bank ASP.NET\WordBank\WordBank\obj\Debug\netcoreapp2.1\WordBank.csproj.AssemblyReference.cache
 C:\Users\Administrador\Desktop\Word Bank ASP.NET\WordBank\WordBank\obj\Debug\netcoreapp2.1\WordBank.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Administrador\Desktop\Word Bank ASP.NET\WordBank\WordBank\obj\Debug\netcoreapp2.1\WordBank.AssemblyInfoInputs.cache
 C:\Users\Administrador\Desktop\Word Bank ASP.NET\WordBank\WordBank\obj\Debug\netcoreapp2.1\WordBank.AssemblyInfo.cs
@@ -14,6 +15,7 @@ C:\Users\Administrador\Desktop\Word Bank ASP.NET\WordBank\WordBank\obj\Debug\net
 C:\Users\Administrador\Desktop\Word Bank ASP.NET\WordBank\WordBank\obj\Debug\netcoreapp2.1\WordBank.TagHelpers.input.cache
 C:\Users\Administrador\Desktop\Word Bank ASP.NET\WordBank\WordBank\obj\Debug\netcoreapp2.1\WordBank.TagHelpers.output.cache
 C:\Users\Administrador\Desktop\Word Bank ASP.NET\WordBank\WordBank\obj\Debug\netcoreapp2.1\WordBank.RazorCoreGenerate.cache
+C:\Users\Administrador\Desktop\Word Bank ASP.NET\WordBank\WordBank\obj\Debug\netcoreapp2.1\Razor\Views\Contact\Index.cshtml.g.cs
 C:\Users\Administrador\Desktop\Word Bank ASP.NET\WordBank\WordBank\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\Administrador\Desktop\Word Bank ASP.NET\WordBank\WordBank\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\Administrador\Desktop\Word Bank ASP.NET\WordBank\WordBank\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
@@ -24,5 +26,3 @@ C:\Users\Administrador\Desktop\Word Bank ASP.NET\WordBank\WordBank\obj\Debug\net
 C:\Users\Administrador\Desktop\Word Bank ASP.NET\WordBank\WordBank\obj\Debug\netcoreapp2.1\WordBank.pdb
 C:\Users\Administrador\Desktop\Word Bank ASP.NET\WordBank\WordBank\obj\Debug\netcoreapp2.1\WordBank.genruntimeconfig.cache
 C:\Users\Administrador\Desktop\Word Bank ASP.NET\WordBank\WordBank\obj\Debug\netcoreapp2.1\WordBank.csproj.CopyComplete
-C:\Users\Administrador\Desktop\Word Bank ASP.NET\WordBank\WordBank\obj\Debug\netcoreapp2.1\WordBank.csproj.AssemblyReference.cache
-C:\Users\Administrador\Desktop\Word Bank ASP.NET\WordBank\WordBank\obj\Debug\netcoreapp2.1\Razor\Views\Contact\Index.cshtml.g.cs

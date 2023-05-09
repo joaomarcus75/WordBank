@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using WordBank.Library.Email;
 using WordBank.Models;
 
 namespace WordBank.Controllers
@@ -18,8 +19,13 @@ namespace WordBank.Controllers
         {
             if(ModelState.IsValid)
             {
-                string content = string.Format("Name: {0}, E-mail: {1}, Subject: {2}, Message: {3}", contact.Name, contact.Email, contact.Subject, contact.Message);
-                return new ContentResult() { Content = content };
+                //string content = string.Format("Name: {0}, E-mail: {1}, Subject: {2}, Message: {3}", contact.Name, contact.Email, contact.Subject, contact.Message);
+
+                //return new ContentResult() { Content = content };
+
+                SendEmail.SendContactMessage(contact);
+                ViewBag.Message = "Message was sucessfully sented";   
+                return View("Index");
             }
             else
             {
